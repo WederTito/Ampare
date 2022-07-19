@@ -7957,6 +7957,26 @@ textarea.form-control-lg {
   color: rgba(0, 0, 0, 0.5) !important;
 }
 
+.text-blue-50 {
+  --bs-text-opacity: 1;
+  color: #00BFFF !important;
+}
+
+.text-blue2-50 {
+  --bs-text-opacity: 1;
+  color: #4169E1 !important;
+}
+
+.text-purple-50 {
+  --bs-text-opacity: 1;
+  color: #4B0082 !important;
+}
+
+.text-gold-50 {
+  --bs-text-opacity: 1;
+  color: #DAA520 !important;
+}
+
 .text-white-50 {
   --bs-text-opacity: 1;
   color: rgba(255, 255, 255, 0.5) !important;
