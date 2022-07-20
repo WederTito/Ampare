@@ -7959,6 +7959,12 @@ textarea.form-control-lg {
   color: rgba(0, 0, 0, 0.5) !important;
 }
 
+.text-black-60 {
+  --bs-text-opacity: 1;
+  color: rgba(0, 0, 0, 0.5) !important;
+  text-align: justify;
+}
+
 .text-blue-50 {
   --bs-text-opacity: 1;
   color: #00BFFF !important;
