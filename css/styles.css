@@ -9107,6 +9107,22 @@ fieldset:disabled .btn {
 .bg-opacity-100 {
   --bs-bg-opacity: 1;
 }
+.bg-blue{
+  background-color: #ADD8E6;
+}
+.bg-purple{
+  background-color: #D8BFD8;
+}
+.bg-yellow{
+  background-color: #F5DEB3;
+}
+.bg-clean{
+  background-color: #FFC0CB;
+}
+.bg-sign{
+  background-color: #FFDEAD;
+}
+
 
 .bg-gradient {
   background-image: var(--bs-gradient) !important;
