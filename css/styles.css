@@ -9113,19 +9113,19 @@ fieldset:disabled .btn {
 }
 .bg-purple{
   background-color: #e6e6ff;
-  box-shadow: inset 0 0 2em #ffffff;
+  box-shadow: inset 0 0 13em #ffffff;
 }
 .bg-yellow{
   background-color: #fffae6;
-  box-shadow: inset 0 0 2em #ffffff;
+  box-shadow: inset 0 0 13em #ffffff;
 }
 .bg-clean{
   background-color: #ffebe6;
-  box-shadow: inset 0 0 2em #ffffff;
+  box-shadow: inset 0 0 9em #ffffff;
 }
 .bg-sign{
   background-color: #e6ffee;
-  box-shadow: inset 0 0 2em #ffffff;
+  box-shadow: inset 0 0 3em #ffffff;
 }
 
 
