@@ -273,7 +273,7 @@ sup {
 }
 
 a {
-  color: #64a19d;
+  color: lightslategrey;
   text-decoration: underline;
 }
 
@@ -12821,7 +12821,7 @@ body {
 }
 
 .container a {
-  color: black;
+  /* color: black; */
   text-decoration: none;
 }
 
