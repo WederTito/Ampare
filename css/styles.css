@@ -8992,6 +8992,11 @@ fieldset:disabled .btn {
   color: #4169E1 !important;
 }
 
+.text-red-50 {
+  --bs-text-opacity: 1;
+  color: darkred !important;
+}
+
 .text-purple-50 {
   --bs-text-opacity: 1;
   color: #4B0082 !important;
