@@ -12929,6 +12929,9 @@ h1:last-of-type {
 }
 
 img {
+  float: left;
+}
+.developer{
   float: right;
 }
 
@@ -12987,5 +12990,17 @@ h2 {
   .header p {
       width: 30%;
   }
- 
+  .main-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: whitesmoke;
+    color: whitesmoke;
+    padding: 1rem;
+}
+.main-footer a {
+  color: lightslategrey;
+  text-decoration: none;
+}
+
 }
